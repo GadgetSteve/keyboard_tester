@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Wing Project User Files
+*.wpu
+
 # C extensions
 *.so
 
@@ -25,6 +28,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# wxDemo files
+wxDemo/
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
